@@ -1,0 +1,23 @@
+# Build e publicação
+bin/
+obj/
+
+# Configurações do Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Logs
+*.log
+
+# Configurações locais
+appsettings.Development.json
+
+# Pacotes NuGet
+*.nupkg
+packages/
+
+# Arquivos temporários
+*.tmp
+*.temp
